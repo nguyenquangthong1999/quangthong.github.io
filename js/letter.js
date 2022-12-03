@@ -6,7 +6,6 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			// strings: ["^1000Gửi đến đồ chảnh chọe, "Lucky thân mến<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn a2, a2 sẽ dành cả phần đời còn lại để che chở cho Lucky, chúc Lucky ngày càng đẹp gái và mạnh khỏe nhé！<br><br><p style='float:right; display:block; width:80px;'>Yêu Lucky!</p>"],
 			strings: ["1000Gửi đến đồ chảnh chọe"],
 			typeSpeed: 100,
 			backSpeed: 50
