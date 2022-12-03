@@ -6,7 +6,7 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["1000Gửi đến đồ chảnh chọe"],
+			strings: ["Bớt bướng!!!"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});

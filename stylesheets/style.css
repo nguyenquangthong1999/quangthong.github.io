@@ -39,7 +39,7 @@
 @media only screen and (max-width: 1400px) {
   .image-cover img {
     width: 400px;
-    height: 500px;
+    height: 555px;
     left: 50%;
     transform: translateX(-50%);
   }
